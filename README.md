@@ -13,7 +13,7 @@ The example used in this repository is *Daiweiji Shiji*, Xianfeng Yiwei [1859] e
 
 To download the images, locate the link for the first image from the right side download option, as shown in the screenshot below:
 
-![[demo.png]]
+![](demo.png)
 
 The image link obtained is: [https://ids.lib.harvard.edu/ids/iiif/430970822/full/1200,/0/default.jpg?download&caption](https://ids.lib.harvard.edu/ids/iiif/430970822/full/1200,/0/default.jpg?download&caption)
 
