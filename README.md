@@ -6,7 +6,7 @@ Certainly! Here is the detailed description for your GitHub repository in Englis
 
 ---
 #### Example Book
-The example used in this repository is *Daiweiji Shiji*, Xianfeng Yiwei [1859] edition. 
+The example used in this repository is *代微積拾級* *Daiweiji Sheji*, 咸豐已未[1859] edition. 
 
 - Book link: [https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081640940203941](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081640940203941)
 - First image link: [https://iiif.lib.harvard.edu/manifests/view/drs:430970820$1i](https://iiif.lib.harvard.edu/manifests/view/drs:430970820$1i)
