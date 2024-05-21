@@ -1,4 +1,4 @@
-# download_harvard_lib_books
+# Harvard Library Book Downloader
 
 ### Repository Description
 Harvard Library possesses numerous facsimile editions of ancient books. This program automates the bulk downloading process by locating the link to the first image and subsequently downloading the rest.
@@ -19,4 +19,40 @@ The image link obtained is: [https://ids.lib.harvard.edu/ids/iiif/430970822/full
 
 Then, replace the numeric part of the link in the code. This book has 252 pages, so the download number can be set to 252.
 
+
+## Additional Functionality
+
+### Merge Images into a PDF
+
+After downloading the images, this program can merge all the book images into a single PDF file. This is useful for offline reading and printing.
+
+### Fullscreen Version for Right-to-Left Reading
+
+The program also provides a fullscreen version of the PDF, formatted for right-to-left reading, which is suitable for traditional Chinese texts.
+
+## Usage Instructions
+
+1. **Download Images**: Run the script to download all images for the book.
+2. **Merge into PDF**: Use the provided script to merge the downloaded images into a PDF file.
+3. **Generate Fullscreen PDF**: Use the additional script to format the PDF for fullscreen, right-to-left reading.
+
+
+
+### Dependencies
+
+Make sure you have the following Python packages installed:
+
+- `requests`
+- `PyPDF2`
+
+You can install them using pip:
+
+```bash
+pip install PyPDF2
+```
+
+This repository provides a comprehensive solution for downloading, merging, and formatting ancient book facsimiles from Harvard Library. Feel free to contribute and enhance the functionality.
+
 ---
+
+By following these steps, users can download images, merge them into a PDF, and create a fullscreen version suitable for right-to-left reading.
